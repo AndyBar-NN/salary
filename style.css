@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+div {
+  display: flex;
+  flex-direction: column;
+}
+div input,
+div button,
+div span {
+  margin-bottom: 20px;
+}
